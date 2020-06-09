@@ -26,8 +26,8 @@ Variables:
 1. FORMAT:
 ``` var x = 5 ```
 2. INVOKE: 
-``` x += x + 6 ```
-NOTE: JS variables are loosely typed which means the info to be store inside it does not need to be specific.
+``` x += x + 6 ```  <br />
+NOTE: JS variables are loosely typed which means the info to be stored inside it does not need to be specific.
 It can contain the following: 
 * Strings
 * Numbers

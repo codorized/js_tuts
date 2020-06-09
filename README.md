@@ -8,7 +8,7 @@ IDs | CLASSES
 IDs have higher specificity than classes.  | The only way for classes to outmatch IDs is to use the keyword **!important** in CSS
 You can only have ONE id of the same name within the same html page.   | You can create multiple classes of the same name with the same html page
 
-### How to get/element elements in the DOM using IDs and Classes in Javascript?
+### How to get/set element style properties in the DOM using IDs and Classes in Javascript?
 
 IDs | CLASSES
 ------------ | -------------
@@ -27,7 +27,7 @@ Variables:
 ``` var x = 5 ```
 2. INVOKE: 
 ``` x += x + 6 ```
-NOTE: JS variables are loosely type which means the info to be store inside it does not need to be specific.
+NOTE: JS variables are loosely typed which means the info to be store inside it does not need to be specific.
 It can contain the following: 
 * Strings
 * Numbers

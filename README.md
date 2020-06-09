@@ -28,16 +28,16 @@ Variables:
 2. INVOKE: 
 ``` x += x + 6 ```  <br />
 NOTE: JS variables are loosely typed which means the info to be stored inside it does not need to be specific.
-&nbsp;It can contain of the following: 
-&nbsp;&nbsp;* Strings
-&nbsp;&nbsp;* Numbers
-&nbsp;&nbsp;* Booleans
-&nbsp;&nbsp;* Arrays
-&nbsp;&nbsp;* Objects 
-&nbsp;&nbsp;* Undefined
-&nbsp;&nbsp;* Empty
-&nbsp;&nbsp;* Null
-&nbsp;&nbsp;* Function
+It can contain of the following: 
+* Strings
+* Numbers
+* Booleans
+* Arrays
+* Objects 
+* Undefined
+* Empty
+* Null
+* Function
 
 
 
